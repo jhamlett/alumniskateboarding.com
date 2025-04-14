@@ -1,0 +1,39 @@
+@font-face {
+  font-family: 'Roboto Condensed';
+  font-style: normal;
+  font-weight: 300;
+  src: url(https://web.archive.org/web/20240808071841im_/https://fonts.gstatic.com/s/robotocondensed/v27/ieVo2ZhZI2eCN5jzbjEETS9weq8-_d6T_POl0fRJeyXsosBO5Xk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto Condensed';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://web.archive.org/web/20240808071841im_/https://fonts.gstatic.com/s/robotocondensed/v27/ieVo2ZhZI2eCN5jzbjEETS9weq8-_d6T_POl0fRJeyWyosBO5Xk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto Condensed';
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://web.archive.org/web/20240808071841im_/https://fonts.gstatic.com/s/robotocondensed/v27/ieVo2ZhZI2eCN5jzbjEETS9weq8-_d6T_POl0fRJeyVVpcBO5Xk.ttf) format('truetype');
+}
+
+/*
+     FILE ARCHIVED ON 07:18:41 Aug 08, 2024 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 18:29:00 Jan 09, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.96
+  exclusion.robots: 0.044
+  exclusion.robots.policy: 0.026
+  esindex: 0.014
+  cdx.remote: 108.789
+  LoadShardBlock: 731.233 (6)
+  PetaboxLoader3.datanode: 759.301 (7)
+  load_resource: 634.556
+  PetaboxLoader3.resolve: 450.631
+*/
